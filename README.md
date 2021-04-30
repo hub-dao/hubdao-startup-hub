@@ -1,6 +1,6 @@
-# initial-farm-offering
+# Hubdao startup-hub
 
-[![Actions Status](https://github.com/pancakeswap/inital-farm-offering/workflows/CI/badge.svg)](https://github.com/pancakeswap/inital-farm-offering/actions)
+[![Actions Status](https://github.com/hub-dao/hubdao-startup-hub/workflows/CI/badge.svg)](https://github.com/hub-dao/hubdao-startup-hub/actions)
 
 
 # Local Development

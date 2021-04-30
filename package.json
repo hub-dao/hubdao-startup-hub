@@ -1,5 +1,5 @@
 {
-  "name": "ifo",
+  "name": "hubdao-startup-hub",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,9 @@
     "test": "npx builder test"
   },
   "dependencies": {
+    "@hubdao-finance/hubdao-lib": "^0.1.1",
     "@openzeppelin/contracts": "^3.2.0",
     "@openzeppelin/test-helpers": "^0.5.6",
-    "@pancakeswap/pancake-swap-lib": "0.0.4",
     "truffle": "^5.1.51",
     "truffle-flattener": "^1.4.4"
   },

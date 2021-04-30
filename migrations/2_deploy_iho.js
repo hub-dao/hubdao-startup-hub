@@ -1,4 +1,4 @@
-const IFO = artifacts.require("IFO");
+const IHO = artifacts.require("IHO");
 
 module.exports = async (deployer) => {
   // const num = 50 * Math.pow(10, 18);
@@ -12,7 +12,7 @@ module.exports = async (deployer) => {
   const raisingAmount = '100000';
   const adminAddress = '0x35f16A46D3cf19010d28578A8b02DfA3CB4095a1';
   await deployer.deploy(
-    IFO,
+    IHO,
     lpToken,
     offeringToken,
     startBlock,
